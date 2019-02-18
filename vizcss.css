@@ -17,3 +17,6 @@ ol {
   border-radius: 15px;
   padding: 25px;
 }
+li {
+  margin: 10px 0;
+}
