@@ -1,0 +1,10 @@
+body {
+  background-color: #fdfff0;
+  font-family: sans-serif;
+}
+.goodtext {
+  color: #a1dd70;
+}
+.badtext {
+  color: #a23131;
+}
