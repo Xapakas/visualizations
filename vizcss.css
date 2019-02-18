@@ -8,3 +8,6 @@ body {
 .badtext {
   color: #a23131;
 }
+img {
+  border: 2px solid black;
+}
